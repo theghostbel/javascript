@@ -1,9 +1,6 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-# Airbnb JavaScript Style Guide() {
+# Tallink JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
-
 
 ## Table of Contents
 
