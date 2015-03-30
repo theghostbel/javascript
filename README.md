@@ -1,5 +1,10 @@
 # Tallink JavaScript Style Guide() {
 
+*How to use?*
+
+Clone this repo, run "npm install" and then "gulp lint". You'll get errors from examples.js, where some of examples of
+wrong code usage are collected.
+
 *A mostly reasonable approach to JavaScript*
 
 ## Table of Contents

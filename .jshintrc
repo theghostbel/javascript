@@ -49,11 +49,6 @@
   // Warn when variables are defined but never used.
   "unused": true,
 
-  /*
-   * RELAXING OPTIONS
-   * =================
-   */
-
-  // Suppress warnings about == null comparisons.
-  "eqnull": true
+  // This option requires all for in loops to filter object's items.
+  "forin": true
 }

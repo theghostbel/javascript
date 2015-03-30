@@ -1,5 +1,5 @@
 {
-  "name": "airbnb-style",
+  "name": "tallink-js-code-style",
   "version": "1.0.0",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
@@ -7,17 +7,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/theghostbel/js-code-style.git"
   },
   "keywords": [
     "style guide",
     "lint",
-    "airbnb"
+    "talink"
   ],
   "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
-  },
-  "homepage": "https://github.com/airbnb/javascript"
+  "homepage": "https://github.com/theghostbel/js-code-style",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.4",
+    "jshint-stylish": "^1.0.1"
+  }
 }
